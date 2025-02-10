@@ -1,4 +1,4 @@
-
+// solved all this problems
 var findDuplicate = function (nums) {
        let tortoise = nums[0];
        let hare = nums[0];
